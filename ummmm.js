@@ -19,7 +19,7 @@ function Lari(signIn, use, exit) {
         it provides at least a mild bit of enterainment *this however is not guranteed*`);
     };
 };
-
+//the console logs above were in place before inquirer was installed to make it work in a similar fashion and I used a constructor variable to add expandablity and a pseudo data base type feel, however, not completely utilized.
 var init = new Lari();
 
 init.status();
